@@ -1,0 +1,1 @@
+Proyecto key sequence detection, del curso JavaScript 30 days challenge, día 12. 
